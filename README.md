@@ -1,4 +1,3 @@
-# UART Protocol-Verilog
 # UART Protocol – Verilog Implementation
 
 ## What is a Protocol?
