@@ -1,0 +1,19 @@
+# ModelSim
+*.wlf
+work/
+transcript
+modelsim.ini
+
+# Quartus
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.sof
+*.pof
+db/
+incremental_db/
+output_files/
+greybox_tmp/
